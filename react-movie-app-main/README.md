@@ -1,7 +1,5 @@
 # Movie Recommender React App
 
-![Movie Recommender](https://raw.githubusercontent.com/ShouryaSengar/react-movie-app/main/MovieAppSS.png)
-
 This is a simple React-based web application that helps you find movie information by searching for a movie title. It serves as an excellent project to understand the basics of React and API handling in React.
 
 ## Table of Contents
@@ -126,7 +124,6 @@ Contributions are welcome! If you'd like to contribute to this project, please f
      ```
 
 6. **Create a Pull Request to Merge Your Changes Into the Main Repository**:
-   - Visit the [main repository](https://github.com/ShouryaSengar/react-movie-app).
    - Click the "New Pull Request" button.
    - Select your fork and branch for the pull request.
    - Provide a clear title and description for your pull request.
